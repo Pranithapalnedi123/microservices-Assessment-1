@@ -1,0 +1,16 @@
+com\example\fliter\JwtAuthFilter.class
+com\example\service\ContactInfoService.class
+com\example\Pojo\AuthRequest.class
+com\example\service\UserInfoService.class
+com\example\configuration\SecurityConfig.class
+com\example\serviceimpl\ContactServiceImpl.class
+com\example\serviceimpl\JwtService.class
+com\example\Repository\ContactInfoRepository.class
+com\example\controller\ContactInfoController.class
+com\example\configuration\UserInfoUserDetails.class
+com\example\controller\UserInfoController.class
+com\example\entity\ContactInfo.class
+com\example\entity\UserInfo.class
+com\example\Repository\UserInfoRepository.class
+com\example\service\UserInfoUserDetailsService.class
+com\example\Assessment\MicroserviceAssessment1Application.class
